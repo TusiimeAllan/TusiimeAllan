@@ -8,4 +8,4 @@ https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb91
 - 📫 How to reach me: allantusiime@gmail.com / +256752719320
 
 
-[![TusiimeAllan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusiimeAllan)](https://github.com/anuraghazra/github-readme-stats)
+[![TusiimeAllan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusiimeAllan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
