@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
 
-<br/>
+<br/><br/>
 
 - 🌱 I’m currently learning more Game Development Features and improving my .NET Efficiency
 - 👯 I’m looking to collaborate on life changing projects.
