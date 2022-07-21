@@ -2,8 +2,15 @@
 
 ### Hello, Am TusiimeAllan
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" align="left" alt="javacript">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" align="left" alt="php">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" height="30px" align="left" alt="javacript">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
+
+<br/>
 
 - 🌱 I’m currently learning more Game Development Features and improving my .NET Efficiency
 - 👯 I’m looking to collaborate on life changing projects.
