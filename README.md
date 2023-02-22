@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently improving my Game Development Knowledge Base in Unity.
 - 👯 I’m looking to collaborate on life changing projects.
-- 💬 Ask me about: Game Development with C#, BackEnd Development with PHP.
+- 💬 Ask me about: Unity Game Development.
 
 ## Contact Me:
 - Email: allantusiime@gmail.com
