@@ -21,7 +21,16 @@
 - Phone: +256 752 719 320
 
 
-[![TusiimeAllan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusiimeAllan&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TusiimeAllan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TusiimeAllan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusiimeAllan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TusiimeAllan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### Authenticated by <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/github.png" height="30px" alt="Github Icon">
