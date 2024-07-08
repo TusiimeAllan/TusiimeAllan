@@ -13,7 +13,7 @@
 ### About Me
 
 - 🌱 I’m currently improving my Game Development Knowledge Base in Unity.
-- 👯 I’m looking to collaborate on life changing projects.
+- 👯 I’m looking to collaborate on life-changing projects.
 - 💬 Ask me about: Unity Game Development.
 
 ## Contact Me:
@@ -23,7 +23,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusiimeAllan&theme=dark&PAT_1=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&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=TusiimeAllan&theme=dark&PAT_1=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&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TusiimeAllan&theme=dark&hide_border=true)<br/>
 
 
