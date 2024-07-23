@@ -1,6 +1,6 @@
-### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Meet TusiimeAllan"> 
+### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Meet AllanTusiime"> 
 
-### Hello, Am TusiimeAllan
+### Hello, Am AllanTusiime
 
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" height="60px" align="left" alt="CSharp Icon" />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="60px" align="left" alt="PHP icon" />
@@ -20,9 +20,12 @@
 - Email: allantusiime@gmail.com
 - Phone: +256 752 719 320
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusiimeAllan&theme=dark&PAT_1=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&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TusiimeAllan&theme=dark&hide_border=true)<br/>
 
