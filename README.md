@@ -3,9 +3,7 @@
 ### Hello, Am AllanTusiime
 
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" height="60px" align="left" alt="CSharp Icon" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="60px" align="left" alt="PHP icon" />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" height="60px" align="left" alt="Javascript Icon" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" height="60px" align="left" alt="Bootsrap Icon" />
 <img src="https://user-images.githubusercontent.com/9201005/61173208-81056980-a590-11e9-8211-41f841e9f8ca.png" height="60px" alt="Unity Icon" />
 
 <br/><br/>
